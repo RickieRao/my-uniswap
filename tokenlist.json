@@ -1,0 +1,37 @@
+{
+  "name": "RAO",
+  "logoURI": "https://umaproject.org/assets/images/UMA_square_red_logo_circle.png",
+  "keywords": ["Rao"],
+  "timestamp": "2020-11-23T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 3,
+      "address": "0x4d7D8A291DCFD0ff4800Af65dEE7359B9f75ff81",
+      "name": "Rao First Token",
+      "symbol": "RFT",
+      "decimals": 18
+    },
+    {
+      "chainId": 3,
+      "address": "0x91c38eB448dB7616fC0bfeFE48A93d9DA5D707D2",
+      "name": "Rao second USDT",
+      "symbol": "RUSDT2",
+      "decimals": 18
+    },
+    {
+      "chainId": 3,
+      "address": "0x1Fdc2Afe4B2E0654EA1354A7060d5925327E245F",
+      "name": "Rao third USDT",
+      "symbol": "RUSDT3",
+      "decimals": 18
+    },
+    {
+      "chainId": 3,
+      "address": "0xc9214D98704dc8039F6909040658aDCF27c79971",
+      "name": "Rao Wrapped ETH",
+      "symbol": "RWETH3",
+      "decimals": 18
+    }
+  ],
+  "version": { "major": 0, "minor": 0, "patch": 0 }
+}
